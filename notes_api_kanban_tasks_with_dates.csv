@@ -1,0 +1,31 @@
+Name,Start,Due
+Initialize Node Project,2025-11-28,2025-12-07
+Install Dependencies,2025-11-28,2025-12-07
+Set Up Environment Variables,2025-11-28,2025-12-07
+Connect PostgreSQL,2025-11-28,2025-12-07
+Set Up Folder Structure,2025-11-28,2025-12-07
+Create Database Migrations,2025-11-28,2025-12-07
+Create User (Sign Up),2025-11-28,2025-12-07
+Log In User,2025-11-28,2025-12-07
+Log Out User,2025-11-28,2025-12-07
+Delete User,2025-11-28,2025-12-07
+Create List,2025-11-28,2025-12-07
+Read Lists,2025-11-28,2025-12-07
+Read Single List,2025-11-28,2025-12-07
+Update List,2025-11-28,2025-12-07
+Delete List,2025-11-28,2025-12-07
+Create Todo,2025-11-28,2025-12-07
+Read Todos,2025-11-28,2025-12-07
+Read Single Todo,2025-11-28,2025-12-07
+Update Todo,2025-11-28,2025-12-07
+Delete Todo,2025-11-28,2025-12-07
+Global Error Handler,2025-11-28,2025-12-07
+Validation Error Handling,2025-11-28,2025-12-07
+Authentication Error Handling,2025-11-28,2025-12-07
+Not Found Error Handling,2025-11-28,2025-12-07
+Foreign Key Error Handling,2025-11-28,2025-12-07
+Database Error Handling,2025-11-28,2025-12-07
+Document Users API Endpoints,2025-11-28,2025-12-07
+Document Lists API Endpoints,2025-11-28,2025-12-07
+Document Todos API Endpoints,2025-11-28,2025-12-07
+Create Error Response Documentation,2025-11-28,2025-12-07
