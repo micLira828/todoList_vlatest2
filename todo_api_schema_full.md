@@ -1,30 +1,5 @@
-# Todo App API & Schema
+# Todo App 
 
----
-
-## 🧩 Schema
-
-### Todo
-- id
-- name
-- due_date
-- priority
-- description
-- created_at
-- updated_at
-
-### List
-- id
-- name
-- description
-- created_at
-- updated_at
-
-### ListTodo
-- list_id
-- todo_id
-
----
 
 ## 🔌 API Docs
 
